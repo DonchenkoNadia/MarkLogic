@@ -1,0 +1,16 @@
+{
+  "name": "quickstart",
+  "version": "1.0.0",
+  "description": "test desc",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "naf",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "marklogic": "^2.9.0",
+    "request": "^2.88.2"
+  }
+}
